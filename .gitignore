@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Astro build output
+dist/
+.astro/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal speaker notes and scripts
+webinar-speaking-script.md
+continuous-ai-speaker-notes.md
+webinar-handoff-runsheet.md
